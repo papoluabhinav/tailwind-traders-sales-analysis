@@ -1,7 +1,3 @@
-Version 1
-★ Best pick
-
-Version 2
 Sales & Profitability
 
 
