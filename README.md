@@ -22,12 +22,12 @@ Data Modelling, DAX, Time Intelligence and Visualisations
 Publishing dashboards and Subscriptions
 
 ## Process  
--Sales data was prepared and revenue, costs and profits calculated in Excel.  
--Data was manipulated in Power Query.  
--Currency conversion data was integrated using Python.  
--A date dimension was created and DAX measures were built.  
--Report 1 (Sales Overview) and Report 2 (Profit Overview) were created.  
--Reports were published to Power BI Service. An Executive Dashboard was created.  
+- Sales data was prepared and revenue, costs and profits calculated in Excel.  
+- Data was manipulated in Power Query.  
+- Currency conversion data was integrated using Python.  
+- A date dimension was created and DAX measures were built.  
+- Report 1 (Sales Overview) and Report 2 (Profit Overview) were created.  
+- Reports were published to Power BI Service. An Executive Dashboard was created.  
 
 ## Deliverables
 Excel File  
