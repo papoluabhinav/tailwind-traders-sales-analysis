@@ -28,6 +28,7 @@ Publishing dashboards and Subscriptions
 Process
 
 .Sales data was prepared and revenue, costs and profits calculated in Excel.
+
 .Data was manipulated in Power Query.
 
 .Currency conversion data was integrated using Python.
