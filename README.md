@@ -1,9 +1,11 @@
 Sales & Profitability
 
 
+
 Overview
 
 This was an analytical project, focussed on analysing sales and profitability within the Tailwind Traders dataset,Data manipulation, calculations, currency conversion and interative reports in Power BI were performed.
+
 
 
 Tools Used
@@ -24,6 +26,7 @@ Data Modelling, DAX, Time Intelligence and Visualisations
 Publishing dashboards and Subscriptions
 
 
+
 Process
 
 .Sales data was prepared and revenue, costs and profits calculated in Excel.
@@ -39,6 +42,7 @@ Process
 .Reports were published to Power BI Service. An Executive Dashboard was created.
 
 
+
 Deliverables
 Excel File
 Power BI file (.pbix)
@@ -49,8 +53,10 @@ Dashboard
 [Screen shots]
 
 
+
 Key Insights
 Insights for the business will be documented below.
+
 
 
 Author
