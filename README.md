@@ -2,7 +2,7 @@
 
 ## Overview
 
-This was an analytical project, focussed on analysing sales and profitability within the Tailwind Traders dataset,Data manipulation, calculations, currency conversion and interative reports in Power BI were performed.
+This was an analytical project, focused on analysing sales and profitability within the Tailwind Traders dataset,Data manipulation, calculations, currency conversion and interative reports in Power BI were performed.
 
 ## Tools Used
 
