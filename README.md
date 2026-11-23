@@ -40,7 +40,7 @@ Publishing dashboards and Subscriptions
 ![Sales Overview](Screenshots/Sales_Overview.png)
 
 ### Profit Overview
-![Profit Overview](Screenshots/Profit_Overview.png) 
+![Profit Overview][(Screenshots/Profit_Overview.png) ](https://github.com/papoluabhinav/tailwind-traders-sales-analysis/blob/main/Screenshot/Profit_Overview.png.png)
 
 ## Key Insights
 Note 1: An artificial data set was used for this analysis. Values including the constant profit margin of 62.37% are an artefact of the data that was produced. The intention was to showcase the analysis and dashboards process.
