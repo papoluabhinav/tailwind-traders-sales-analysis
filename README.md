@@ -6,19 +6,19 @@ This was an analytical project, focused on analysing sales and profitability wit
 
 ## Tools Used
 
-1.Microsoft Excel :  
+ 1.Microsoft Excel :  
 Data manipulation, calculation, Financial Analysis
 
-2.Power Query :  
+ 2.Power Query :  
 Data manipulation and data profiling
 
-3.Python :  
+ 3.Python :  
 Currency conversion
 
-4.Power BI :  
+ 4.Power BI :  
 Data Modelling, DAX, Time Intelligence and Visualisations
 
-5.Power BI Service :   
+ 5.Power BI Service :   
 Publishing dashboards and Subscriptions
 
 ## Process  
