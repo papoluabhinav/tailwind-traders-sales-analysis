@@ -6,7 +6,7 @@ This was an analytical project, focused on analysing sales and profitability wit
 
 ## Tools Used
 
- 1.Microsoft Excel :  
+### 1.Microsoft Excel :  
 Data manipulation, calculation, Financial Analysis
 
  2.Power Query :  
