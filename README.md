@@ -30,12 +30,12 @@ Publishing dashboards and Subscriptions
 - Reports were published to Power BI Service. An Executive Dashboard was created.  
 
 ## Deliverables
--Excel File  
--Power BI file (.pbix)  
--Python Currency Script  
--Dashboard (Power BI Service)  
--Screenshot & Documentation  
--Dashboard  
+- Excel File  
+- Power BI file (.pbix)  
+- Python Currency Script  
+- Dashboard (Power BI Service)  
+- Screenshot & Documentation  
+- Dashboard  
 [Screen shots]  
 
 ## Key Insights
