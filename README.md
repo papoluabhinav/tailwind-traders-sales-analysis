@@ -35,7 +35,7 @@ Publishing dashboards and Subscriptions
 - Python Currency Script  
 - Dashboard (Power BI Service)  
 - Screenshot & Documentation  
-- ## Screenshots
+- Screenshots
   ### Sales Overview
 ![Sales Overview](Screenshots/Sales_Overview.png)
 
