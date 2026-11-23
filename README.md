@@ -35,8 +35,12 @@ Publishing dashboards and Subscriptions
 - Python Currency Script  
 - Dashboard (Power BI Service)  
 - Screenshot & Documentation  
-- Dashboard  
-[Screen shots]  
+- ## Screenshots
+  ### Sales Overview
+![Sales Overview](Screenshots/Sales_Overview.png)
+
+### Profit Overview
+![Profit Overview](Screenshots/Profit_Overview.png) 
 
 ## Key Insights
 Note 1: An artificial data set was used for this analysis. Values including the constant profit margin of 62.37% are an artefact of the data that was produced. The intention was to showcase the analysis and dashboards process.
